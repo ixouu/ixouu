@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julien Chanon</h1>
+<h1 align="center">Hi 👋, I'm Julien C.</h1>
 <h3 align="center">A frontend Developper from Nantes (FR)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ixouu&label=Profile%20views&color=0e75b6&style=flat" alt="ixouu" /> </p>
