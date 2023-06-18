@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ixouu&label=Profile%20views&color=0e75b6&style=flat" alt="ixouu" /> </p>
 
-- 🌱 I’m currently learning **react Query and TypeScript**
 
 - 👨‍💻 All of my projects are available at [http://julien-chanon.fr](http://julien-chanon.fr)
 
